@@ -11,7 +11,8 @@ sum=(sum*10)+r;
 n=n/10;
 }
 if(temp==sum)
-printf("yup...palindrome number ");
+printf("Checking number 525");
+printf("yup...it is palindrome number ");
 else
 printf("opps...it's not palindrome");
 return 0;
