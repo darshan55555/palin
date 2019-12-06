@@ -1,9 +1,8 @@
+
 #include<stdio.h>
 int main()
 {
-int n,r,sum=0,temp;
-printf("Please...enter the number=");
-scanf("%d",&n);
+int n=525,r,sum=0,temp;
 temp=n;
 while(n>0)
 {
